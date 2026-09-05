@@ -11,7 +11,7 @@ async function ykhfi(file) {
     }
     const signatureofflac = String.fromCharCode(data.getUint8(0), data.getUint8(1), data.getUint8(2), data.getUint8(3));
     if (signatureofflac !== "fLaC") {
-        console.log("[YKH_VCI]ERR: Unable to find the signature of flac files. / 4 byte signature not found.(fLaC)");
+        console.log("[YKH_VCI]ERR: Unable to find the signature of flac files. / 4 bytes signature not found.(fLaC)");
         return { tags: { na: "1" } };
     }
 
