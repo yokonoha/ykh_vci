@@ -6,6 +6,59 @@ Fileとしてロードさせると、認識子からFLACかどうか判定しま
 エラーが起きても、throwはしません。コンソールメッセージでエラーの内容は確認可能です。  
 ## Origin  
 https://github.com/yokonoha/MinatsukiTone  
+### SAMPLE  
+```
+{
+    "TRACKNUMBER": [
+        "1"
+    ],
+    "TITLE": [
+        "Cumulative Hallucinations -累積的幻覚-"
+    ],
+    "ALBUMARTIST": [
+        "YOKORERA"
+    ],
+    "ARTIST": [
+        "YOKORERA"
+    ],
+    "COMPOSER": [
+        "住保栖樹"
+    ],
+    "DATE": [
+        "2021-12-23"
+    ],
+    "ALBUM": [
+        "Your Decision"
+    ],
+    "GENRE": [
+        "J-Pop"
+    ],
+    "ALBUMSORT": [
+        "Y O U R  D E C I T I O N"
+    ],
+    "TOTALTRACKS": [
+        "12"
+    ],
+    "DISCTOTAL": [
+        "1"
+    ],
+    "DISCNUMBER": [
+        "1"
+    ],
+    "ALBUMARTISTSORT": [
+        "Y O K O R E R A"
+    ],
+    "TITLESORT": [
+        "C U M U L A T I V E  H A L L U C I N A T I O N S - ル イ セ キ テ キ  ゲ ン カ ク -"
+    ],
+    "ARTISTSORT": [
+        "ヨ コ レ ラ"
+    ],
+    "LYRICS": [
+        "深い霧に包まれて 呑まれてしまいそうな\n晩秋夜 彷徨う私\n黒の行く先へ ただ突き進む\nあれからどれ程たっただろう\n何もかもが 想像の斜め下\nうまくいかない私だけど\n濃霧の裏は きっと希望にあふれてる\nSo Let's DIVE into the Fog!\n些細な事でも Alright!\n怖がってないで ほら私の手を握って\n今突き抜けるよ Fly through the fog\n...."
+    ]
+}
+```
 ## License  
 Apache 2.0  
    Copyright 2026 横茶横葉/Y.Yokoha  
